@@ -64,5 +64,5 @@ coefficients of each entry in `Asym`.
 ## Reference
 1. Hong, Hoon, **Daniel Profili**, and J. Rafael Sendra. ["Conditions
    for eigenvalue configurations of two real symmetric matrices
-   (symmetric function approach)."](https://arxiv.org/pdf/2401.00089)
+   (symmetric polynomials approach)."](https://arxiv.org/pdf/2401.00089)
    Journal of Symbolic Computation (pending) (2026).
