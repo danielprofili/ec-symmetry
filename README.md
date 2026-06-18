@@ -8,8 +8,7 @@ entries and a desired arrangement of their eigenvalues, compute a
 quantifier-free condition on the entries of the matrices so that their
 eigenvalues are arranged in the given way.
 
-This implementation uses the theory of generalized real root counting
-and the signature of matrices. See
+This implementation uses the theory of symmetric polynomials. See
 [ec-symmetry](https://github.com/danielprofili/ec-signature) for an
 alternative algorithm which solves the same problem.
 
